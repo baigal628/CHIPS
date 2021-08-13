@@ -4,6 +4,10 @@ This is a mirror of the repo on bitbucket https://bitbucket.org/plumbers/CHIPS/s
 
 # Table of Contents
 
+### Citation
+
+Taing L, Bai G, Cousins C et al. CHIPS: A Snakemake pipeline for quality control and reproducible processing of chromatin profiling data [version 1; peer review: awaiting peer review]. F1000Research 2021, 10:517 (https://doi.org/10.12688/f1000research.52878.1)
+
 # Installing CHIPS
 You will only need to install CHIPS once, either for your own use, or if you are a system administrator, for the entire system (see **Appendix C**).  In other words, you will only need to perform the steps described in this section only once.  
 NOTE: this section ends with **Using CHIPS** (below)
